@@ -1,4 +1,4 @@
-# NYC DOE Student Performance Dashboard
+# NYC DOE Student Performance Analysis & Dashboard
 This personal project visualizes NYC Department of Education (DOE) Math and English Language Arts (ELA) state assessment results for students in grades 3–8 from 2013–2023. The dashboard analyzes proficiency rates (students scoring at Levels 3 and 4, meeting or exceeding expectations) to explore performance trends over time and differences across geographic regions and student populations.
 
 # Tools Used
